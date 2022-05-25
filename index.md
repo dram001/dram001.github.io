@@ -1,4 +1,4 @@
-![logo](/assets/images/IMG_0034.jpg)
+
 [Home](index.md)
 [About](about.md)
 ## Welcome to Doug's Note
