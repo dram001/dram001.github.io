@@ -1,6 +1,6 @@
 ## Welcome to Doug's Note
 
-[About](about.md)
+[Home](index.md)-----[About](about.md)
 
 ![logo](/assets/images/IMG_0034.jpg)
 
