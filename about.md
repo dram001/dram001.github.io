@@ -5,5 +5,6 @@
 
 
 
-### Computer Science, Cyber Security, Networking, Ai, Finance and Economics.
+### Computer Science, Cyber Security, Networking, Web Application, Deep Learning, Linux, ASP.NET, Finance and Economics.
+
 Nice to meet you!
