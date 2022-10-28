@@ -1,5 +1,3 @@
-## Welcome to Doug's Note
-
 [Home](index.md)-----[About](about.md)    [Contact](contact.md)
 
 ![logo](/assets/images/IMG_0034.jpg)
