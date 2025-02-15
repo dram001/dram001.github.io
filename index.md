@@ -5,7 +5,7 @@
 
 《奧利維亞·羅德里戈：情歌少女》- 2022
 
-![Alt text](https://res.cloudinary.com/du61cacui/image/upload/w_30/v1739638675/pli_ydde0n.jpg)
+![Alt text](https://res.cloudinary.com/du61cacui/image/upload/w_300/v1739638675/pli_ydde0n.jpg)
 
 2025-02-16
 
