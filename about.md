@@ -1,9 +1,4 @@
-## Welcome to Doug's Note
+## Welcome to Douglas' Diary
 
 
 [Home](index.md)    [About](about.md)
-
-
-
-### Cyber Security, Web Application, Deep Learning, Finance and Economics.
-
