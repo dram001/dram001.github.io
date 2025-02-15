@@ -1,5 +1,4 @@
-[Home](index.md)|[About](about.md)|[Contact](contact.md)|[Travel](travel.md)
----
+
 ![logo](/assets/images/IMG_0034.jpg)
 
 
