@@ -12,7 +12,7 @@
 
 ![Alt text](https://res.cloudinary.com/du61cacui/image/upload/w_300/v1739638675/pli_ydde0n.jpg)
 
-https://res.cloudinary.com/du61cacui/image/upload/w_300/v1739640668/9hszzxzg_nrbdxo.png
+![Alt text](https://res.cloudinary.com/du61cacui/image/upload/w_300/v1739640668/9hszzxzg_nrbdxo.png)
 
 是一部深入探討奧利維亞·羅德里戈音樂旅程的紀錄片，展現了她從默默無聞到全球巨星的轉變。影片不僅捕捉了她的音樂才華，還揭示了她在創作過程中的情感投入與個人掙扎。
 
